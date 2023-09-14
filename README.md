@@ -1,2 +1,6 @@
 # LandingPageWordpress.github.io
-landing page on wordpress. you can see images of the site in the below link
+ 
+to run this code paste all this files in a folder having name "wordpress" place this wordpress file in htdocs folder.
+from XAMPP start Apache and MySQL 
+create a database named wordpress in MySQL
+then write in web browser localhost/wordpress/
